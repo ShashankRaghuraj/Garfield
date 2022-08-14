@@ -1,7 +1,6 @@
 //Shashank Raghuraj
 //A class Meant to Replicate the Fat Cat himself: Garfield!
 //However, Because Its a Monday, Garfield has traveled through space-time and messed up his own Code
-//Read Garfield's Brain(Commentation) to figure out what he wants and fix his code accordingly
 
 #include<string>
 #include <iostream>
